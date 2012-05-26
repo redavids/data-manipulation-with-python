@@ -4,7 +4,6 @@ import subprocess
 import sys
 import time
 import copy
-#Nardo is Sweet
 
 def merge(list,i,j): #only works when i < j !!!!!
     r = []
